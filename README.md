@@ -12,7 +12,7 @@
 
 ## Results
 - Ensemble learner based on Max-Voting performed the best on an unbalanced dataset of 12,073 Reddit posts.
-- TF-IDF vectorization yielded an accuracy of 85.2% and an AUC-ROC value of 0.991.
+- TF-IDF vectorization yielded an accuracy of 85.2% and an AUC-ROC value of 0.984.
 
 ## Minority Stress in LGBTQ+ Community
 - LGBTQ+ individuals face challenges in coming out and often encounter rejection.
